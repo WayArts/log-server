@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T17:03:12.148Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="lD5MzYoMW2ZZW4L2h4PX" version="21.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-31T17:22:19.563Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="Qti2BaADFDF8_iUEr-Mr" version="21.1.2" type="github" pages="2">
   <diagram name="App components" id="lCMRPWak-l99gqr__HIk">
     <mxGraphModel dx="813" dy="2799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="4o0hdnLatyUBeNMG3Ewm-3" value="Telegram API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4o0hdnLatyUBeNMG3Ewm-4" value="Data view API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4o0hdnLatyUBeNMG3Ewm-4" value="Other API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4o0hdnLatyUBeNMG3Ewm-5" value="Log web UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -144,6 +144,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="130" as="sourcePoint" />
             <mxPoint x="920" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2AfLZ39WPkaOLQhRvI4C-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4o0hdnLatyUBeNMG3Ewm-5" target="uBTQGI4SKc7psDHaQZI_-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="90" as="sourcePoint" />
+            <mxPoint x="1090" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
